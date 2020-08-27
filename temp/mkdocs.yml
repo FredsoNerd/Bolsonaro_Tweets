@@ -5,6 +5,7 @@ nav:
 - Coleta de dados: data_scrapping.md
 - Pré-processamento: preprocessing.md
 - Análise exploratória de dados: EconomicData_and_Twitter_EDA.md
+- Análise de sentimentos: sentiment_analysis.md
 
 theme:
   name: null
