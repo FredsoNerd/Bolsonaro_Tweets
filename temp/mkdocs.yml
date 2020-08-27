@@ -1,0 +1,11 @@
+site_name: Bolsonaro Tweets
+
+nav:
+- Home: index.md
+- Coleta de dados: data_scrapping.md
+- Pré-processamento: preprocessing.md
+- Análise exploratória de dados: EconomicData_and_Twitter_EDA.md
+
+theme:
+  name: null
+  custom_dir: 'cinder'
